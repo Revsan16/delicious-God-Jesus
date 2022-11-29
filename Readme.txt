@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Delicious
-Template URL: https://bootstrapmade.com/delicious-free-restaurant-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: AFC
+Template URL: https://apostleschrist.com/
+Author: apostleschrist.com
+License: https://apostleschrist.com/license/
